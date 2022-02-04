@@ -1,0 +1,14 @@
+{
+	"name": "jimp-img-manipulation",
+	"version": "1.0.0",
+	"description": "testing image manipulation",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jimp": "^0.16.1"
+	}
+}
